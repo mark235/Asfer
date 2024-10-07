@@ -5,10 +5,12 @@
 ## 📄 Summary
 Motivated and skilled Cloud Engineer with certifications in AWS Cloud Practitioner and AWS Solutions Architect Associate. Proven hands-on experience in Docker, Kubernetes, Helm, CI/CD pipelines, and cloud infrastructure on AWS, Google Cloud Platform, and Microsoft Azure. Strong foundation in cloud computing and committed to driving innovation through efficient cloud-based solutions.
 
-[![Architecture Diagram](saa.png)](saa.png)
-[![Architecture Diagram](cp.png)](cp.png)
-[![Architecture Diagram](gpm.png)](gpm.png)
-[![Architecture Diagram](mfp.png)](mfp.png)
+<div align="center">
+    <img src="saa2.png" alt="AWS Solutions Architect Associate" width="150" height="150">
+    <img src="cp.png" alt="AWS Cloud Practitioner" width="150" height="150">
+    <img src="gpm2.png" alt="Google Project Management" width="150" height="150">
+    <img src="mckinsey-forward-program.png" alt="McKinsey Forward Program" width="150" height="150">
+</div>
 
 ---
 
