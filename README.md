@@ -125,7 +125,7 @@ To leverage my technical expertise and cloud engineering skills within a dynamic
 
 ### 1. **Advanced Cloud Certifications**
    - **AWS Certified DevOps Engineer - Professional**: Aiming to achieve this certification to deepen my understanding of advanced CI/CD practices, operational automation, and monitoring on AWS.
-   - **Google Cloud Professional Cloud Architect**: Planning to certify my expertise in Google Cloud Platform and expand my multi-cloud capabilities, focusing on architectural best practices.
+   - **AWS Certified Solutions Architect - Professional**: Planning to certify my expertise in AWS Cloud Platform and expand my multi-cloud capabilities, focusing on architectural best practices.
 
 ### 2. **Master Kubernetes & Helm at Scale**
    - **Goal**: Attain a comprehensive understanding of Kubernetes cluster management and scaling with Helm in production environments.
